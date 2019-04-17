@@ -1,4 +1,4 @@
-tmt,ID,tissueconc,solconc,Exposure date,tissueconc (mg metal/Kg dry tissue)
+Tmt,ID,Tissueconc,Solconc,Exposure Date,Tissueconc (mg metal/Kg dry tissue)
 Cu,0a,,,2/19/18,solconc (mg metal/L exposure solution)
 Cu,0b,,,,0=Below detection limit
 Cu,0c,,,,
